@@ -8,8 +8,8 @@
         "maths",
         "unity"
     ],
-    "dependencies": {
+    "dependencies": [
         "com.unity.remote-config"
-    },
+    ],
     "category": "Unity"
 }

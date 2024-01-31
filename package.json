@@ -1,6 +1,6 @@
 {
     "name": "com.gbf.packagetest",
-    "displayName": "PackageTestFucntions",
+    "displayName": "Package Test Functionality",
     "version": "0.0.1",
     "unity": "2018.1",
     "description": "Pruebas para hacer funcionar un repo mediante un package manager.",

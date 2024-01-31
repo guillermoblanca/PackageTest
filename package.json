@@ -8,7 +8,7 @@
         "maths",
         "unity"
     ],
-    "hideInEditor":"true",
+    "hideInEditor":"false",
     "dependencies": {
         "com.unity.remote-config" : "4.0.0"
     },

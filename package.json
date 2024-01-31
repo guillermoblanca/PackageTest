@@ -10,6 +10,6 @@
     ],
     "dependencies": {
         "com.unity.remote-config",
-    }
+    },
     "category": "Unity"
 }

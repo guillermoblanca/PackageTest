@@ -9,7 +9,7 @@
         "unity"
     ],
     "dependencies": {
-        "com.unity.remote-config",
+        "com.unity.remote-config"
     },
     "category": "Unity"
 }

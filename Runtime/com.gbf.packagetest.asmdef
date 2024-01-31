@@ -1,0 +1,18 @@
+{
+    "name": "com.gbf.packagetest",
+    "rootNamespace": "GB",
+    "references": [
+        "GUID:9d6c7830d9ab746a7a12f144bdeeee7c",
+        "GUID:30e7a851ec87b44ad956804ca8ebf15c",
+        "GUID:826bd8a513abe1544ae9419804a9d7b7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
